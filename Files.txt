@@ -1,0 +1,31 @@
+Files:
+
+files-package------io.
+
+Java-File ,Reading,Writing,Alter,Delete
+
+
+
+1.Floder creation
+2.Sub Folder
+3.Files-Pdf,doc,txt......,Rawtypes-Images 
+4.rename
+5.delete
+6.list all details
+7.list folder-gettting particular folder
+8.list files-getting particular files
+
+
+
+File---Class
+
+FileReader
+FileWriter
+
+
+FileInputStream----->Same as FileReader----->Inflaterinputstream
+FileOutputStream----->Same as FileWriter------>Cant show all details,that time we are using Deflateroutputstream
+
+
+
+

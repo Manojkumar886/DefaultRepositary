@@ -1,0 +1,15 @@
+searching
+
+datat structures--
+search types:
+linear search 
+binary search
+
+sorting types
+
+selection sort
+bubble sort
+
+
+
+I'm a software engineer with over two decades of experience working in the tech industry, providing valuable expertise to start-up businesses.I've worked with various types of projects and have mastered multiple java programming languages and coding as well as software testing and debugging.

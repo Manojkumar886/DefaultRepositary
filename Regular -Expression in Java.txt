@@ -1,0 +1,23 @@
+Regular Expression:
+
+A regular Expression is an object that describes a pattern of character.
+
+Syntex:
+
+var pattern=new RegExp(pattern, attributes)
+
+
+Pattern-A string that specifies the pattern of the regukar expresson or another regular expression.
+
+Attributes- "g", "i", "m" attributes that specify global ,case-sensitive,multiline matches....
+
+
+[]-Any one charcter b/w the brackets
+
+[^..]- Anyy  one charcter not b/w the brackets
+
+[0-9] -any decimal values through  to 0-9
+
+[a-z]- Lowercase values
+
+[A-Z]- uppercase values

@@ -1,0 +1,16 @@
+java-->james gosling---->mobile software---1995--->sun microsoft system
+java-object oriended programming system(ooops),highlevel programming languages
+
+datatypes,variable,operator,constrol stratement,looping,oops
+
+jdk-java development system
+jvm-java virtual machine
+jre-java runtime environmental(pacakges,class)
+
+java jdk-download
+tool-eclipse-download
+
+
+maven project:
+org.apache.maven.archetypes.quickstart
+

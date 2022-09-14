@@ -1,0 +1,19 @@
+Typecasting -two type of typecasting using in java
+1.widening(change to variable)
+2.narrowing(convert a one data type to another data type...
+short,int,long,float,double,char,boolean,string
+
+1.int a=10;
+float b=a;
+
+
+Scanner class:
+java.util----
+
+scanner class is defined by get a value in run time..
+
+Scanner class created an Object
+types.......
+String--nextLine(),next()
+int-nextInt()
+double-nextDouble....

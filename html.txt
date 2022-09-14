@@ -1,0 +1,24 @@
+CSS-Cascading Style Sheet
+
+Used to style an html document-latest version-4
+
+
+Three Methods-
+Inline-by using the style attributes inside html elements
+
+Internal-by using <style> tag in the <head> section
+
+External-by using a<link>tag  to link to an external css file
+
+CSS_Selectors
+
+1.CSS Element Selector
+	using tags inside the style tag
+2.CSS Id Selector
+	mention that id attributes(#)....
+3.CSS Class Selector(.)
+	 mention that attributes class,multiple element same design .....
+4.CSS Universal Selectors(*)
+      	common element-All
+5.CSS Group Selector
+ 	all tags used in style tags

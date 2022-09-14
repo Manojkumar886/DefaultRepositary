@@ -1,0 +1,44 @@
+Array:
+
+Array is set of values referenced by using a single variable name combined with index number.
+index number start is 0 and end is array length.....
+
+Array create,list,read,searching,passedbymethodsinarrayvalues,update.......
+
+
+Array-Types
+
+1.single-dimensional array-Normal
+2.Multidimensional Array-Same as matrix
+3.Jagged array-Defined with your choice
+
+MULTIDIMENSIONAL ARRAY
+-------------------------------------------
+it can be used for simplewords in get a array of array.it is stored by major part of row and column
+
+
+Syntex:
+
+data type [Row.idex] [Column.index] Arr.name=new Datatype[][]; 
+
+
+SEARCHING-DATA STRUCTURES USING IN JAVA
+
+1.LINEAR SEARCH
+
+linear search-unorder
+-------------
+0  1  2  3  4  5  6    index
+92 87 53 10 15 23 67
+key value is =15;
+step-1
+15!=92
+step-2
+move tonext element-----15!=87
+
+step-3
+15=15 ---->get in need elemet.........
+
+
+
+2.BINARY SEARCH

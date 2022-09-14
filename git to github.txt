@@ -1,0 +1,18 @@
+Login Github
+Git download in git page and install
+
+git config --global user.name "username"
+
+git config --global user.gmail "mail id"
+/
+go to your project --->open git bash hub
+
+git init--->git status (red files)--->git add .---->git status(filles show in green color)
+
+git commit -m "initialized git"
+
+another time your checking git stattus
+
+git remote add origin "respositaryname"
+
+git push -u origin main

@@ -1,0 +1,46 @@
+
+Constructor:
+ special type of method.which is used to initialize object.
+three rule:
+1.similar to method having same name as class name.
+2.doesnt have any return type.(void)(int,string)
+3.execute automatically when we are created object.
+
+call constructor:
+animal dog=new animal();
+or
+new classname();
+
+
+dog.show();//normal method
+
+two types:
+1.default constuctor  (null)...most of time cannot be used......
+2.parameterized constructor
+
+example:
+
+public class defcons 
+{
+	String Name;
+	int Salary;
+	
+//	public  defcons()//constructor is created
+//	{
+//		System.out.println("name of the employee"+Name);
+//		System.out.println("Salary of the employee"+Salary);
+//	}
+	 public defcons(String empname,int empsalary)
+	 {
+		 Name=empname;
+		 Salary=empsalary;
+		 System.out.println("nameof the employee"+Name);
+		 System.out.println("Salary of the employee"+Salary);
+	 }
+	
+	public static void main(String[] args) 
+	{
+		defcons constr=new defcons("Seeni",800000);//object createted 
+		
+	}
+}

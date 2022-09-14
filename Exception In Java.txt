@@ -1,0 +1,79 @@
+
+
+
+Exception:(Error Handling)
+
+data,conditon,situation particular problem is executed,which lead the application to be terminated abnormally\incompletely.
+so,that time we can use exception handling.
+
+Two type of exception handled in Java,That contains are
+
+1.Checked/Compile                       	2.Unchecked/Runtime
+
+*IOException(file)			*NullPointerException n
+*ClassNotFoundException		*ArrayOutOfBound
+*InterruppedException(Thread)		*ArithmeticException
+*SQLException			*InputMismatchException
+
+Way to Handles:
+1.try
+2.catch
+3.Finally
+4.throw
+5.throws
+
+
+1.Try----!
+\\it is used to specify a block using exception code(codition)
+\\the try block must be followed by catch or finally block.    try{\\conditon}catch{};
+
+2.Catch----!
+\\Catch block is used to handle the exception.
+\\catch block is used to after the try block....
+
+3.Finally---!
+\\Finally block is used to execute the necessary code of the program
+\\it is excuted to exception handled or not....
+
+4.Throw:
+---------
+\\Throw is followed by instance of exception Class.
+\\throw keyword is defined in the method body
+	void method()
+	{
+	try
+	{
+		throw new ArithmeticException("Something went wrong..!!"):
+	}
+	catch(ArithmeticException exp)
+	{
+		sysout("Error");
+	};
+
+
+\\it throw only one exception at a same time
+
+	void method()
+	{
+	try
+	{
+		throw new ArithmeticException("Something went wrong..!!"):
+	}
+Syntax:
+throw new ArithemeticException("Message"):
+
+
+
+5.Throws:
+\\Throws  is followed by exception class names
+\\Throws is defined in method signature to check the exception present in the method
+	void sample() throws ArithmeticException,Intrerrupped Exception
+	{
+		//statement
+	}
+
+\\Throws more than one exception at a same time
+	void sample() throws ArithmeticException,NullPOinterException,IOException
+	{
+		//statement
+	}

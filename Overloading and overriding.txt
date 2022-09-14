@@ -1,0 +1,17 @@
+Overloading:
+
+Compile time polymotphism:
+rules:
+same class 
+Same Method name
+Different Arguments or parameters
+
+Overriding:
+
+Runtime Polymorphism:
+
+rules:
+
+different class
+same method name
+same parameters

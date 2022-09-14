@@ -1,0 +1,89 @@
+Control Statement
+
+if statement--only condition is true if block will be executed
+if else statement-condition wrong or correct ,your vcondition is correct that time executed if block,
+	            your condition is wrong that time else block will be executed automatically..
+
+else if statement-more than else if block is used in java,same as if block is used....
+		continiously executed the program when as if block is correct immiadiately all else if
+		block is stop.....
+nested if statement----inside the if block of if block
+switch---used for set of task divded based on case statement...
+
+
+if-else syntex:
+if(condition)
+{
+sysout("i am manojkumar");
+}
+else
+{
+sysout("im not Manoj");
+}
+
+
+
+else-if statement
+---------------
+
+if(condition)
+{
+statement
+}
+else if(condition)
+{
+statement
+}
+else if(condition)
+{
+statement
+}
+else if(condition)
+{
+statement
+}
+else
+{
+statement
+}
+
+
+
+NestedIF
+----------
+
+
+
+if(condition)
+{
+	if(condtion)
+	{
+	statment
+	}
+}
+else
+{
+statment
+}
+
+
+
+
+SwitchStatement
+----------------
+
+switch()
+{
+case :
+
+break;
+case :
+
+break
+ 
+case :
+
+break;
+
+
+default:" statment" ;
