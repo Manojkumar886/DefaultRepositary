@@ -7,7 +7,7 @@ Oops-Object oriended programming system
 6.Polymorphism
 
 1.Class
-Group of object........
+Group of object........which have common properties..........
 Contains......Constructor,block{},nested classes
 
 2.Object:
@@ -41,10 +41,11 @@ code reusability
 
 Inheritance four types used in java:
 ------------------------------------
-single
-multiple--java doest support....that time we are using interface(implements)..
+single     Animal-Dog
+multiple--jva doest support....that time we are using interface(implements)..---A depended by more then classes,A  extends  b,c,d
 multilevel
 hierachical
+hybrid
 
 
 4.ENCAPSULATION
@@ -104,7 +105,7 @@ why to use interface in jave...
 3. that is used by loose coupling...........
 
 
-declare the interface class:
+declare the interface class:    
 
 interface <classname>
 {

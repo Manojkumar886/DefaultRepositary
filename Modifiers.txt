@@ -3,16 +3,18 @@ _______________
 
 1.Public-This is access everywhere
 2.Private-This is access within Class
-3.Protected-This is access with in packageand outside package you want that time using for through child class.
+3.Protected-This is access with in package and outside package you want that time using for through child class.
 4.Deafult-this is only used for within package,no required for default keyword..
 
 
 Non-Access Modifiers
 __________________
 
+Static-variable,method,body of statement(block)
+,abstract
 
 final
 
-final variable
-final method
-final class
+final variable-cannot be change  final int a=10;
+final method-cannot be overrided final void emthodname(){     };
+final class-cannot be inherited

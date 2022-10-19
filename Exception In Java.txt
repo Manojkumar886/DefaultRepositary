@@ -10,9 +10,9 @@ Two type of exception handled in Java,That contains are
 
 1.Checked/Compile                       	2.Unchecked/Runtime
 
-*IOException(file)			*NullPointerException n
+*IOException(file)			*NullPointerException 
 *ClassNotFoundException		*ArrayOutOfBound
-*InterruppedException(Thread)		*ArithmeticException
+*InterruppedException(Thread)	*ArithmeticException
 *SQLException			*InputMismatchException
 
 Way to Handles:

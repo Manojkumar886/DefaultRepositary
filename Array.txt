@@ -1,15 +1,22 @@
 Array:
 
-Array is set of values referenced by using a single variable name combined with index number.
-index number start is 0 and end is array length.....
+Array is set of values referenced by using a single variable name combined with index number.0-9
+index number start is 0 and end is array length.....[]
 
 Array create,list,read,searching,passedbymethodsinarrayvalues,update.......
 
+datatype squarebrackets variablename =new int [];
+
+For-Each
+for(datatype variablename : arrayname)
+{
+sysou(variable name)
+}
 
 Array-Types
 
 1.single-dimensional array-Normal
-2.Multidimensional Array-Same as matrix
+2.Multidimensional Array- TWo Dimensional Array --Same as matrix
 3.Jagged array-Defined with your choice
 
 MULTIDIMENSIONAL ARRAY

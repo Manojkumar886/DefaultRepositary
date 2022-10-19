@@ -25,6 +25,11 @@ Sort,Reverse,remove
 -->Packages------java.util.collection
 
 -->iteration-----Same as Looping
+Iterator i=hey.iterator();
+while(i.hasnext()---boolean value/true loop is executed)
+{
+sys(i.next());
+}
 
 STROAGE CLASSES:
 __________________
@@ -34,10 +39,11 @@ Iterable----->Collection--->list,set,map(This is Interfaces)
 List:  ArrayList,Stack,Linked List,Vector
 	*Duplicates Values allowed
 	*Insertion order is maintained
-
-	STACK-	 	push-add, pop-last element deleted, empty-true or false(value), Peek-view the top element, Search-result is counted by last element
-	LINKED LIST- 	add/addLast ,  addFirst, add(index,object), remove/removeFirst, removeLast , remove(index), remove(object),contains-checking process
+	
+LINKED LIST- 	add/addLast ,  addFirst, add(index,object), remove/removeFirst, removeLast , remove(index), remove(object),contains-checking process
 			get(index), getFirst, getLast , set(index,object)// update, indexOf(object), clear()..........
+	
+	STACK-	 	push-add, pop-last element deleted, empty-true or false(value), Peek-view the top element, Search-result is counted by last element
 	ARRAYLIST
 	VECTOR-		set(index,object)// update,  add , addAll,  add(index,object), remove(index),   remove(object), contains ,get(index), indexOf(object), removeAll-only removed for original element, retainAll-only removed for dupliicates values
   	ArrayList bj=new ArrayList();

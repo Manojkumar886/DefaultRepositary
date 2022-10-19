@@ -12,8 +12,10 @@ String-nextLine or next
 Operators
 ---------
 1.Arithametic Operator 	-  		+,-,*,/,%
-2.Assignment Operator	-		Its used to assign a particular two operands(=),Same as Arithametic Operator,+=,-=,*=,/=
+2.Assignment Operator	-		Its used to assign a particular two operands(=x),Same as Arithametic Operator,+=,-=,*=,/=
 3.Comparision or Relational Operator -	>,<,==,!=,<=,>= 
 4.Logical Operator			-	&&,||,!	(connected with two comparision Operator)		
 5.Bitwise Operator			-
-6.Shift Operator			-
+6.Shift Operator			- Two type of shift operator used in java,hat isRight shift (/)another one is left shift(*).....a/2^b
+7.ternary operator			-
+8.Unary Operator			-

@@ -10,7 +10,7 @@ three types of variables used in java:
 
 
 2.local variable
-inside the method........
+inside the class,inside the method........
 
 
 3.global variable or instance variable
@@ -42,6 +42,8 @@ object: object is created by class,but used in method.....
 new-memory allocated at runtime
 syntax:
 classname objectname(udn)=new classname();
+Madlips obj=new madlips();//Object Creation
+obj.maria();
 
 example:
 Variables obj=new Variables();

@@ -1,4 +1,4 @@
-Looping:
+Looping:---Keywords-53
  Looping  is used to repeat set of instructions again to again.(iterator)
  we need three steps or rule.(start,stop,each step)
  start-initialization(1)
@@ -30,7 +30,7 @@ WHILE LOOP:
 
 DO WHILE LOOP:
 	syantax:
-init;
+			init;
 		do
 		{
 			statement;

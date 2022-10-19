@@ -1,0 +1,28 @@
+String Class.......
+
+* String is basicallly an object that represents sequnace of character values.
+* An array of characters works same as string class.its is a immutable....
+They are two ways to create string object:
+1.Literal---> String a1="Manoj";
+2.NonLiteral--->String a=new String("Manojkumar");
+//Classname objectname=new Classname();
+
+charAt-get a object at the specified index value
+Equals,EqualsIgnoreCase,compareTo,compareToIgnoreCase()---Check the Two string variables
+Star tswith-Check a starting value -Boolean value
+endswith- Check a end value -Boolean value
+replace( ,  ) - one sentence change the other word of one sentance..
+subString( , )-get a perticular word in one sentance,spaces cannot be calculated by value
+concat- connect a two strings
+contains- contains used in sequence of character
+length - get a length value
+trim- waste fo spaces its removed
+Split- remove a whitespaces
+
+
+
+String Buffer-
+StringBuffer obj=new StringBuffer();//Object creation
+its used to for mutable...
+Append,insert,replace,delete,reverse.....
+
